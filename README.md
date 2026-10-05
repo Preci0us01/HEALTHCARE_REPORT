@@ -1,6 +1,18 @@
 # 🫀 Health Care Report Analysis
 
- 
+ ## Table of contents
+ - [Project overview](#project-overview)
+- [Data Sources](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results-findings)
+- [Recommendations](#recommendations)
+- [Limitation](#limitation)
+- [References](#references)
+  
+
 ## Project Overview
 The Healthcare report is a comprehensive data visualisation dashboard designed to track, monitor
 and analyse key hospital and patient metrics. It consolidates operational data-ranging from financial performance and patient demographics to clinical conditions and treatment distributions.
@@ -76,7 +88,7 @@ ORDER BY `Total Amount` DESC;
 
 
 
-   ### Recommendation
+   ### Recommendations
    Based on the analysis, we recommend the following actions;
 
    - Since Patient volumes experience a sharp, sustained increase during the first the final quarter-peaking at 161         patients in November-hospital administration should front-load staff scheduling, shift locations, and leave            planning ahead of October to prevent burnout and maintain service quality.
@@ -86,7 +98,7 @@ ORDER BY `Total Amount` DESC;
    - Providing proactive community outreach  or tele health check-ins for chronic patients can help catch acute flares        early, balancing out the evenly distributed emergency(583) and urgent(555) admission pathways,
    - Given that the top medical conditions are dominated by chronic illness like asthma (319 patients),cancer(300           patients), obesity, arthritis, hypertension and diabetes, the facility should implement dedicated outpatient           screening and preventive management clinics.
   
-### Limitations
+### Limitation
 1. Missing values, dirty data and incorrect data types
 
 ### References
