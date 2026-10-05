@@ -5,6 +5,9 @@
 The Healthcare report is a comprehensive data visualisation dashboard designed to track, monitor
 and analyse key hospital and patient metrics. It consolidates operational data-ranging from financial performance and patient demographics to clinical conditions and treatment distributions.
 
+
+
+
 ## Data Source
 
 The **Healthcare Report** is gotten from kaggle.
@@ -14,7 +17,7 @@ The **Healthcare Report** is gotten from kaggle.
 
 - Excel - Data cleaning [Download here](https://microsoft.com)
 - SQL Server - Data Analysis [Download here](https://mysqlserver.com)
-- Power BI - For DAX Measures and creating visualization
+- Power BI - For DAX Measures and creating visualisation
 
 
 ### Data Cleaning/Preparation
