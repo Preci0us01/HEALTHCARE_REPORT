@@ -7,7 +7,7 @@
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Findings](#results-findings)
+- [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
 - [Limitation](#limitation)
 - [References](#references)
