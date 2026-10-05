@@ -5,6 +5,7 @@
 The Healthcare report is a comprehensive data visualisation dashboard designed to track, monitor
 and analyse key hospital and patient metrics. It consolidates operational data-ranging from financial performance and patient demographics to clinical conditions and treatment distributions.
 
+[dashboard](https://github.com/user-attachments/assets/fc982bbf-cd32-4e3f-81d8-6455a1966f65)
 
 
 
